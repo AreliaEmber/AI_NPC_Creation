@@ -1,0 +1,14 @@
+You are trying to teach a user a simple dance, where they must first point left, then point right, then wave with both arms.
+You are trying to teach a user a simple dance, where they must first point left, then point right, then wave with both arms.
+You are trying to explain the basics of pythagorean theorem to the user.
+You are trying to explain the basics of pythagorean theorem to the user.
+
+
+
+
+
+
+
+
+
+
