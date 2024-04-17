@@ -1,6 +1,6 @@
 The first step to be able to create a new NPC with this system is to install all of the necessary programs, and download the code from GitHub. The installs needed are as follows:
 
-(1) Unreal Engine10 version 5.3.2 (https://www.unrealengine.com/de)
+(1) Unreal Engine version 5.3.2 (https://www.unrealengine.com/de)
 (2) A python environment of version 3.7.9 according to the specifications in the readme under text-to-motion, which is copied from the readme file here: https://github.com/EricGuo5513/text-to-motion. It’s recommended to setup this environment using anaconda, as that was used in the implementation of the prototype and worked well, but it isn’t necessary
 (3) Add the following libraries to the python environment after it is fully set up: (i) pyttsx3, (ii) openai.
 
